@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Score : MonoBehaviour
 {
-
+    //게임점수
     Rect ScorePosition;
     public int CurrentScore = 0;
     // Start is called before the first frame update
