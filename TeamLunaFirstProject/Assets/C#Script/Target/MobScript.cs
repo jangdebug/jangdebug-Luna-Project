@@ -27,7 +27,7 @@ public class MobScript : MonoBehaviour
             if (HP == 0)
             {
                 //체력이 0이되면 스코어오르고 몹파괴
-                Camera.main.GetComponent<Score>().CurrentScore += Score;
+                Camera.main.GetComponent<UserInterFace>().CurrentScore += Score;
                 Destroy(gameObject); //
             }
         }
