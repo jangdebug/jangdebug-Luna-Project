@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
+    //총발사시 폭발효과
     public GameObject OriginalSpark;
     GameObject CloneSpark;
 

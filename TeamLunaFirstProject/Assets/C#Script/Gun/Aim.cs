@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Aim : MonoBehaviour
 {
+    //메인카메라에 에임
     public Texture2D AimTexture;
     Rect AimRect;
 

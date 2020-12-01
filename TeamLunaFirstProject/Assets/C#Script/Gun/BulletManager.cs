@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//총알관리스크립트
 public class BulletManager : MonoBehaviour
 {
-    public Rigidbody Bullet;
-    public float BulletSpeed;
-    public AudioClip BulletAudioClip;
+    public Rigidbody Bullet; //총
+    public float BulletSpeed; //총속도
+    public AudioClip BulletAudioClip; //총소리
     // Start is called before the first frame update
     void Start()
     {
