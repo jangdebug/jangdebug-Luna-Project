@@ -9,7 +9,10 @@ TagManager:
   - EndLine
   - RePlay
   - Exit
+<<<<<<< HEAD
   - Mob
+=======
+>>>>>>> 3c9013837480501567da4a8f5b24f69b337dbfe0
   layers:
   - Default
   - TransparentFX

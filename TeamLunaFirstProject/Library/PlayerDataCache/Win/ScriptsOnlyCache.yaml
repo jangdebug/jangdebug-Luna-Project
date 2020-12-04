@@ -23,11 +23,17 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+<<<<<<< HEAD
     - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
     - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
+=======
+    - UnityEditor.Graphs.AnimationBlendTree.Node
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+>>>>>>> 3c9013837480501567da4a8f5b24f69b337dbfe0
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -57,10 +63,13 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+<<<<<<< HEAD
     - Class: 82
       Script: {instanceID: 0}
     - Class: 83
       Script: {instanceID: 0}
+=======
+>>>>>>> 3c9013837480501567da4a8f5b24f69b337dbfe0
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
@@ -70,6 +79,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11286}
     - Class: 114
+<<<<<<< HEAD
       Script: {instanceID: 11382}
     - Class: 114
       Script: {instanceID: 11500}
@@ -85,6 +95,23 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12830}
     - Class: 114
       Script: {instanceID: 13202}
+=======
+      Script: {instanceID: 11498}
+    - Class: 114
+      Script: {instanceID: 11900}
+    - Class: 114
+      Script: {instanceID: 12432}
+    - Class: 114
+      Script: {instanceID: 12826}
+    - Class: 114
+      Script: {instanceID: 13198}
+    - Class: 114
+      Script: {instanceID: 4679666}
+    - Class: 114
+      Script: {instanceID: 4745786}
+    - Class: 114
+      Script: {instanceID: 8588946}
+>>>>>>> 3c9013837480501567da4a8f5b24f69b337dbfe0
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -120,6 +147,11 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
+<<<<<<< HEAD
+=======
+    - Class: 49
+      Script: {instanceID: 0}
+>>>>>>> 3c9013837480501567da4a8f5b24f69b337dbfe0
     - Class: 54
       Script: {instanceID: 0}
     - Class: 64
@@ -153,9 +185,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11286}
     - Class: 114
+<<<<<<< HEAD
       Script: {instanceID: 11388}
     - Class: 114
       Script: {instanceID: 11500}
+=======
+      Script: {instanceID: 11386}
+    - Class: 114
+      Script: {instanceID: 11498}
+>>>>>>> 3c9013837480501567da4a8f5b24f69b337dbfe0
     - Class: 114
       Script: {instanceID: 11680}
     - Class: 114
@@ -163,10 +201,16 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11900}
     - Class: 114
+<<<<<<< HEAD
+=======
+      Script: {instanceID: 11932}
+    - Class: 114
+>>>>>>> 3c9013837480501567da4a8f5b24f69b337dbfe0
       Script: {instanceID: 12058}
     - Class: 114
       Script: {instanceID: 12370}
     - Class: 114
+<<<<<<< HEAD
       Script: {instanceID: 12830}
     - Class: 114
       Script: {instanceID: 13146}
@@ -176,6 +220,23 @@ ScriptsOnlyBuild:
       Script: {instanceID: 13206}
     - Class: 114
       Script: {instanceID: 13234}
+=======
+      Script: {instanceID: 12554}
+    - Class: 114
+      Script: {instanceID: 12568}
+    - Class: 114
+      Script: {instanceID: 12826}
+    - Class: 114
+      Script: {instanceID: 12988}
+    - Class: 114
+      Script: {instanceID: 13142}
+    - Class: 114
+      Script: {instanceID: 13198}
+    - Class: 114
+      Script: {instanceID: 13202}
+    - Class: 114
+      Script: {instanceID: 13230}
+>>>>>>> 3c9013837480501567da4a8f5b24f69b337dbfe0
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -221,6 +282,7 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
+<<<<<<< HEAD
     - Class: 49
       Script: {instanceID: 0}
     - Class: 81
@@ -293,6 +355,13 @@ ScriptsOnlyBuild:
     - Class: 83
       Script: {instanceID: 0}
     - Class: 104
+=======
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+>>>>>>> 3c9013837480501567da4a8f5b24f69b337dbfe0
       Script: {instanceID: 0}
     - Class: 114
       Script: {instanceID: 11262}
@@ -301,6 +370,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11286}
     - Class: 114
+<<<<<<< HEAD
       Script: {instanceID: 11382}
     - Class: 114
       Script: {instanceID: 11500}
@@ -314,6 +384,19 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12830}
     - Class: 114
       Script: {instanceID: 13202}
+=======
+      Script: {instanceID: 11498}
+    - Class: 114
+      Script: {instanceID: 11900}
+    - Class: 114
+      Script: {instanceID: 12432}
+    - Class: 114
+      Script: {instanceID: 12826}
+    - Class: 114
+      Script: {instanceID: 13198}
+    - Class: 114
+      Script: {instanceID: 4679666}
+>>>>>>> 3c9013837480501567da4a8f5b24f69b337dbfe0
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -387,12 +470,15 @@ ScriptsOnlyBuild:
     className: ParticleSystemMultiplier
   - hash:
       serializedVersion: 2
+<<<<<<< HEAD
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: ExitButton
   - hash:
       serializedVersion: 2
+=======
+>>>>>>> 3c9013837480501567da4a8f5b24f69b337dbfe0
       Hash: 0d85f4fda1e0e70cd92c084d12f05cdc
     assemblyName: Assembly-CSharp-firstpass.dll
     namespaceName: UnityStandardAssets.Characters.ThirdPerson
@@ -537,7 +623,11 @@ ScriptsOnlyBuild:
     className: AnimationTrack
   - hash:
       serializedVersion: 2
+<<<<<<< HEAD
       Hash: 0a464dcab267a853f9851de68e0253e1
+=======
+      Hash: 367af86571e97ae37fc425b04d11bdf8
+>>>>>>> 3c9013837480501567da4a8f5b24f69b337dbfe0
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: UserInterFace
@@ -777,12 +867,15 @@ ScriptsOnlyBuild:
     className: BulletManager
   - hash:
       serializedVersion: 2
+<<<<<<< HEAD
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: KeyBoardCheck
   - hash:
       serializedVersion: 2
+=======
+>>>>>>> 3c9013837480501567da4a8f5b24f69b337dbfe0
       Hash: 2294ba4929e515b4b46046eff1f6b057
     assemblyName: Assembly-CSharp-firstpass.dll
     namespaceName: UnityStandardAssets.Effects
@@ -801,12 +894,15 @@ ScriptsOnlyBuild:
     className: PlayOrRePlayButton
   - hash:
       serializedVersion: 2
+<<<<<<< HEAD
       Hash: 299d20589aaa34a98e3164914f6e6825
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: UserResultInterFace
   - hash:
       serializedVersion: 2
+=======
+>>>>>>> 3c9013837480501567da4a8f5b24f69b337dbfe0
       Hash: 9a40de0f5a84ec02044ccfb05875df71
     assemblyName: Assembly-CSharp-firstpass.dll
     namespaceName: UnityStandardAssets.Utility
@@ -999,7 +1095,11 @@ ScriptsOnlyBuild:
     className: Outline
   - hash:
       serializedVersion: 2
+<<<<<<< HEAD
       Hash: b47f31dec86c10405fe36ba91d5cc92d
+=======
+      Hash: 57f5ba09c87907cd8d6fc784a2134fcd
+>>>>>>> 3c9013837480501567da4a8f5b24f69b337dbfe0
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: MobScript
@@ -1081,6 +1181,7 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp-firstpass.dll
     namespaceName: UnityStandardAssets.Utility
     className: AutoMobileShaderSwitch
+<<<<<<< HEAD
   platform: 5
   scenePathNames:
   - Assets/Scenes/StartScene.unity
@@ -1088,3 +1189,29 @@ ScriptsOnlyBuild:
   - Assets/Scenes/GameOverScene.unity
   - Assets/Scenes/YouDied.unity
   playerPath: "C:/Users/admin/Desktop/GameSoftWareStudy/\uB9CC\uB4E4\uC5B4\uC9C4\uAC70\uD14C\uC2A4\uD2B8\uCD5C\uC885/TeamLunaFirstProject.exe"
+=======
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ExitButton
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: KeyBoardCheck
+  - hash:
+      serializedVersion: 2
+      Hash: 299d20589aaa34a98e3164914f6e6825
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: UserResultInterFace
+  platform: 5
+  scenePathNames:
+  - Assets/Scenes/MainScene.unity
+  - Assets/Scenes/StartScene.unity
+  - Assets/Scenes/GameOverScene.unity
+  playerPath: "C:/Users/admin/Desktop/GameSoftWareStudy/\uB9CC\uB4E4\uC5B4\uC9C4\uAC70\uD14C\uC2A4\uD2B8/TeamLunaFirstProject.exe"
+>>>>>>> 3c9013837480501567da4a8f5b24f69b337dbfe0
